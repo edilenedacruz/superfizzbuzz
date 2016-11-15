@@ -40,3 +40,4 @@ Create a SuperFizz class with the following methods:
 
 * convert_number(number)
 * output_range(start, end)
+# superfizzbuzz
